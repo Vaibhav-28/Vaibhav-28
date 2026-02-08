@@ -1,9 +1,9 @@
 vaibhav
 
-go
-python
-frontend
-react / next.js / svelte
+go  
+python  
+frontend  
+react / next.js / svelte  
 they all render divs.
 
 software is a tool
